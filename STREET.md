@@ -112,3 +112,58 @@ Design-consistency notes:
 - Text props are deliberate (5 MORE MINUTES, DEAD INSIDE, NO MORE HOPE, iNiR).
 - The two editorial scenes keep their painted backgrounds and must only be
   used on rectangular surfaces, never as sprite cutouts.
+
+## Drop 3 (2026-07-17, batch c)
+
+30 poses from 5 sheets (3x2 each), all full-body completo.. The batch is
+anime-cosplay themed (Kira dressed as recognizable anime characters), kept in
+the street line rather than a new series by maintainer decision; every pose is
+named by its physical action, not by the parodied character, so no third-party
+IP name lands in a shipped filename. Same smooth-anime rendering and character
+anchors as the rest of the line.
+
+Nothing rejected: overlaps with the already-saturated street edgy poses are
+kept with a distinct action name (or `-alt`) instead of being dropped, per
+maintainer decision.
+
+| Pose | Source | Crop | Rating | Quality | Notes |
+|---|---|---|---|---|---|
+| street-aura-scream | 1 p1 | completo | safe | B | power-up aura, torn gi; square aura halo makes a weaker cutout |
+| street-focus-seal | 1 p2 | completo (crouch) | safe | A | ninja hand-seal crouch, headband |
+| street-meat-swig | 1 p3 | completo | edgy | A | straw hat, meat on the bone + bottle (alcohol) |
+| street-gear-lunge | 1 p4 | completo (run) | safe | A | ODM-gear grapple lunge, dual blades |
+| street-checker-stance | 1 p5 | completo | safe | A | checkered haori guard stance with a staff |
+| street-smoke-peace | 1 p6 | completo | edgy | A | standing peace sign + cigarette (smoke variant) |
+| street-armchair-reader | 2 p1 | completo (sitting) | safe | A | office chair, reading a book, pizza/chips floor props |
+| street-hero-stand | 2 p2 | completo | safe | A | yellow hero suit + cape, arms crossed |
+| street-swagger-point | 2 p3 | completo | safe | A | dynamic point + chain, cap, wink |
+| street-trench-detective | 2 p4 | completo | safe | A- | trench + fake moustache + magnifier; 4th magnifier pose, kept as variant |
+| street-flaming-pan | 2 p5 | completo | safe | A | flaming skillet cooking disaster, kanji headband; sibling of kitchen-panic |
+| street-chair-smoke | 2 p6 | completo (sitting) | edgy | A | folding chair, cigarette (smoke variant) |
+| street-moon-wand | 3 p1 | completo | safe | A | magical-girl wand + crescent, mid-jump |
+| street-spike-jump | 3 p2 | completo (jump) | safe | A | volleyball spike, jersey 10 |
+| street-smoke-slump | 3 p3 | completo | edgy | A | downcast hoodie standing smoke (smoke variant) |
+| street-fish-lure | 3 p4 | completo | edgy | A | dangling fish on a line, cigarette + green aura |
+| street-force-push | 3 p5 | completo | safe | A | telekinetic palm blast, table bursts |
+| street-katana-smoke-alt | 3 p6 | completo | edgy | A | white haori, katana on shoulder + cigarette (alt of katana-smoke) |
+| street-dig-dive | 4 p1 | completo | safe | A | volleyball receive dive, jersey 10 |
+| street-circle-wand | 4 p2 | completo | safe | A | magic wand, cat in a box, summoning circle |
+| street-pilot-seat | 4 p3 | completo (sitting) | safe | A | flight suit + headset, ejection-seat scream |
+| street-mad-scribe | 4 p4 | completo (sitting) | safe | A | desk lamp, manic writing in a notebook, chips |
+| street-easel-painter | 4 p5 | completo (sitting) | safe | A | beret, brush + palette, holding a cat drawing |
+| street-katana-smoke | 4 p6 | completo | edgy | A | long black coat, katana on shoulder + cigarette |
+| street-power-flex | 5 p1 | completo | safe | B | power-up aura, opening jacket; square aura halo makes a weaker cutout |
+| street-brew-bottle | 5 p2 | completo | edgy | A | beer bottle "MEOW BREW", tank + shorts (alcohol) |
+| street-flannel-smoke | 5 p3 | completo | edgy | A | flannel, walking, cigarette (smoke variant) |
+| street-tongue-flipoff | 5 p4 | completo | edgy | A | middle finger + tongue out; 3rd flipoff, kept as variant |
+| street-hangover-crash | 5 p5 | completo (crouch) | edgy | A | hungover crouch, can + bottle on the floor (alcohol) |
+| street-peace-swagger | 5 p6 | completo | safe | A | peace sign + jacket, sweatpants |
+
+Safe (19): aura-scream, focus-seal, gear-lunge, checker-stance,
+armchair-reader, hero-stand, swagger-point, trench-detective, flaming-pan,
+moon-wand, spike-jump, force-push, dig-dive, circle-wand, pilot-seat,
+mad-scribe, easel-painter, power-flex, peace-swagger.
+
+Edgy (11, collection/manual only, never automatic): meat-swig, smoke-peace,
+chair-smoke, smoke-slump, fish-lure, katana-smoke-alt, katana-smoke,
+brew-bottle, flannel-smoke, tongue-flipoff, hangover-crash.
