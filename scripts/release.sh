@@ -14,7 +14,7 @@ notes="${2:-Mascot pack ${tag}}"
 
 cd "$repo_dir"
 if [[ -n "$(git status --porcelain)" ]]; then
-  echo "error: uncommitted changes. Run sync-from-shell.sh, review, commit, then release." >&2
+  echo "error: uncommitted changes. Refresh the catalog, build the pack, review, and commit before releasing." >&2
   exit 1
 fi
 if git rev-parse "$tag" >/dev/null 2>&1; then
