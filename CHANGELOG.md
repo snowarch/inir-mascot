@@ -3,6 +3,13 @@
 Newest first, one entry per release tag. Say what changed in the art,
 not which files moved.
 
+## Unreleased
+
+Thirty full-body anime-parody poses extend the street line: nineteen safe
+manual/runtime candidates and eleven edgy collection-only variants. The asset
+workflow now validates changed art, catalog coverage and release tarballs, and
+generates a catalog grouped by animation and art line.
+
 ## v2 (2026-07-17)
 
 Street line debut: 109 poses in a second art style, modern smooth anime with

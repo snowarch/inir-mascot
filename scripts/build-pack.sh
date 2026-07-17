@@ -8,6 +8,8 @@ repo_dir="$(cd "$(dirname "$0")/.." && pwd)"
 out="${repo_dir}/inir-mascot-pack.tar.gz"
 
 cd "$repo_dir"
+python3 scripts/validate.py
+
 shopt -s nullglob
 files=(inir-mascot-*.png inir-mascot-*.gif)
 if ((${#files[@]} == 0)); then
@@ -16,6 +18,7 @@ if ((${#files[@]} == 0)); then
 fi
 
 tar -czf "$out" "${files[@]}"
+python3 scripts/validate.py --pack "$out" >/dev/null
 echo "pack: $out"
 echo "assets: ${#files[@]}"
 du -h "$out" | cut -f1 | xargs echo "size:"
