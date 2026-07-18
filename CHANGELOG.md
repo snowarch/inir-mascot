@@ -3,12 +3,10 @@
 Newest first, one entry per release tag. Say what changed in the art,
 not which files moved.
 
-## Unreleased
+## v3 (2026-07-17)
 
 Thirty full-body anime-parody poses extend the street line: nineteen safe
-manual/runtime candidates and eleven edgy collection-only variants. The asset
-workflow now validates changed art, catalog coverage and release tarballs, and
-generates a catalog grouped by animation and art line.
+runtime candidates and eleven edgy collection-only variants.
 
 ## v2 (2026-07-17)
 
