@@ -1,23 +1,8 @@
 inir-mascot-pack.tar.gz
+inir-mascot-pack.sha256
+inir-mascot-pack.json
 incoming/
 __pycache__/
 *.pyc
 .env
 .env.*
-
-# Local development and agent tooling
-AGENTS.md
-CLAUDE.md
-CODEX.md
-PI.md
-codemap.md
-.mcp.json
-skills-lock.json
-.agents/
-.claude/
-.codex/
-.opencode/
-.factory/
-.codebase-memory/
-.impeccable/
-.pi-subagents/
