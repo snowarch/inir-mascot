@@ -38,3 +38,7 @@ Some older published assets are retained for compatibility even when they predat
 ## Branding
 
 Kira is original iNiR product artwork. The assets in this repository are intended for iNiR-related use and are not a general-purpose character pack.
+
+## Licence
+
+The art is all rights reserved, free to use and redistribute with iNiR: see [LICENSE](LICENSE). The scripts are GPL-3.0.
