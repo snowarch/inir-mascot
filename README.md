@@ -41,4 +41,4 @@ Kira is original iNiR product artwork. The assets in this repository are intende
 
 ## Licence
 
-The art is all rights reserved, free to use and redistribute with iNiR: see [LICENSE](LICENSE). The scripts are GPL-3.0.
+The art is all rights reserved, free to use and redistribute with iNiR: see [LICENSE](LICENSE).
